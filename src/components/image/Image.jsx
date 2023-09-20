@@ -3,7 +3,11 @@ import "./Image.css";
 
 const Image = () => {
     return (
-        <img className="image" src="././images/image-equilibrium.jpg" loading="lazy" />
+        <section>
+            <img className="image" src="././images/image-equilibrium.jpg" loading="lazy" />
+        </section>
+
+
     );
 }
 
